@@ -1,1 +1,1 @@
-My first project meme generator using: HTML/ CSS / JavaScript
+Built a meme generator app using HTML, CSS, and JavaScript. Implemented dynamic DOM manipulation for meme creation and deletion, styled responsive layouts with Flexbox, and added text overlay functionality with custom positioning and hover effects.
